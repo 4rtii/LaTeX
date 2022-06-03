@@ -6,5 +6,5 @@ Documentos, plantillas y demás.
 **YouTube:** [https://youtube.com/c/4rtii](https://www.youtube.com/4rtii)  
 **Twitch:** [https://twitch.tv/4rtii\_](https://www.twitch.tv/4rtii_)  
 **GitHub:**[https://github.com/4rtii](https://github.com/4rtii)  
-**Hack The Box:** [https://app.hackthebox.com/profile/839583](https://app.hackthebox.com/profile/839583)
-**Inspirado en:** Marcelo Vázquez (aka s4vitar): [https://youtube.com/watch?v=riNRHoEOBeU](Cómo crear un reporte profesional en LaTeX)
+**Hack The Box:** [https://app.hackthebox.com/profile/839583](https://app.hackthebox.com/profile/839583)  
+**Inspirado en:** Marcelo Vázquez (aka s4vitar): [Cómo crear un reporte profesional en LaTeX](https://youtube.com/watch?v=riNRHoEOBeU))
